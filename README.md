@@ -1,4 +1,4 @@
-#README
+#HASH_CHAIN
 
 目录内含
 
